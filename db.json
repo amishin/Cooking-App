@@ -1,5 +1,5 @@
 {
-0:[
+[
   {
   "id":641803
   "title":"Easy & Delish! ~ Apple Crumble"
@@ -8,9 +8,7 @@
   "missedIngredientCount":4
   "likes":1
 }
-  ],
-1:[
-  {
+{
   "id":645152
   "title":"Grandma's Apple Crisp"
   "image":"https://spoonacular.com/recipeImages/Grandmas-Apple-Crisp-645152.jpg"
