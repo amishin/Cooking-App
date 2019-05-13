@@ -2,12 +2,17 @@
 "recipies" : [
   {
   "id":641803,
-  "title":"Easy & Delish! ~ Apple Crumble"
-  
-  },
+  "title":"Easy & Delish! ~ Apple Crumble",
+  "usedIngredientCount":3,
+  "missedIngredientCount":4,
+  "likes":1
+},
 {
   "id":645152,
-  "title":"Grandma's Apple Crisp"
+  "title":"Grandma's Apple Crisp",
+  "usedIngredientCount":3,
+  "missedIngredientCount":6,
+  "likes":1
   }
   ]
 }
